@@ -1,6 +1,6 @@
 (DELETE) https://api-capstone-heroku.herokuapp.com/auth/hapus_data_pasien/id
 
-contoh: https://api-capstone-heroku.herokuapp.com/auth/hapus_data_pasien/6 (tambahkan "id" di akhir link)
+contoh: https://api-capstone-heroku.herokuapp.com/auth/hapus_data_pasien/4 (tambahkan "id" di akhir link)
 
 respon:
 {
