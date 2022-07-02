@@ -1,0 +1,1 @@
+(GET) https://api-capstone-heroku.herokuapp.com/dokter/akun_dokter_lihat

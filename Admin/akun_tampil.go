@@ -1,7 +1,8 @@
-(GET) https://api-capstone-heroku.herokuapp.com/akun_tampil
+(GET) https://api-capstone-heroku.herokuapp.com/admin/akun_tampil
 
 respon:
 {
+    "code": 200,
     "data": [
         {
             "id": "1",
@@ -56,8 +57,33 @@ respon:
             "email": "ayu@gmail.com",
             "password": "ayu12345",
             "level": "perawat"
+        },
+        {
+            "id": "37",
+            "sip": "",
+            "nama": "",
+            "jenis_kelamin": "",
+            "email": "abdullah@gmail.com",
+            "password": "abdul123",
+            "level": "dokter"
+        },
+        {
+            "id": "38",
+            "sip": "",
+            "nama": "",
+            "jenis_kelamin": "",
+            "email": "bahtiar@gmail.com",
+            "password": "bahtiar123",
+            "level": "perawat"
+        },
+        {
+            "id": "39",
+            "sip": "",
+            "nama": "",
+            "jenis_kelamin": "",
+            "email": "mansur@gmail.com",
+            "password": "mansur123",
+            "level": "dokter"
         }
-    ],
-    "status": "Berhasil",
-    "user": null
+    ]
 }
