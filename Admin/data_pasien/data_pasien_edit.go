@@ -1,6 +1,6 @@
-(PUT) https://api-capstone-heroku.herokuapp.com/admin/data_pasien_edit/id
+(PUT) https://api-capstone-heroku.herokuapp.com/admin/data_pasien_edit/:id
 
-request: 
+request contoh: https://api-capstone-heroku.herokuapp.com/admin/data_pasien_edit/5
 {
     "nik": "330709815",
     "nama": "Maya",
