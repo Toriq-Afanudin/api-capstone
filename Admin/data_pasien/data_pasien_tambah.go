@@ -2,13 +2,13 @@
 
 request:
 {
-    "nik":"35111105057530007",
-    "nama":"Naufal Ulwan",
-    "alamat":"Jl KH Wahid Hasyim no 10 RT 30 RW 09 Malang",
+    "nik":"35111105057530215",
+    "nama":"Nurhuda Bikhoir",
     "jenis_kelamin":"L",
-    "nomer_telfon":"082122019283",
+    "poli":"Umum",
+    "alamat":"Jl KH Wahid Hasyim no 10 RT 30 RW 09 Malang",
+    "no_hp":"082122019283",
     "tempat_lahir":"Malang",
     "tanggal_lahir":"7 Desember 1994",
-    "poli":"umum",
-    "jenis_penanganan":"rawat jalan"
+    "jenis_penanganan":"Rawat jalan"
 }

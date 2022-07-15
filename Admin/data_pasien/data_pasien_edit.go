@@ -3,7 +3,7 @@
 request contoh: https://api-capstone-heroku.herokuapp.com/admin/data_pasien_edit/5
 {
     "nik": "330709815",
-    "nama": "Maya",
+    "nama": "Yusuf",
     "alamat": "Tuban, Banyuwangi",
     "jenis_kelamin": "P",
     "nomer_telfon": "083720012964",
