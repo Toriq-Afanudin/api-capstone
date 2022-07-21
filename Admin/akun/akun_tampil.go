@@ -5,103 +5,76 @@ respon:
     "code": 200,
     "data": [
         {
-            "id": "41",
-            "sip": "019283642",
-            "nama": "dr. Trisna Chandra Laksana",
-            "jenis_kelamin": "L",
-            "email": "chandra03@gmail.com",
+            "id": 41,
+            "sip": "440/1719.2/SIP/429.114/X/2015",
+            "nama": "dr. Hastuti Indra Retnani, Sp.A, Msc",
+            "jenis_kelamin": "Perempuan",
+            "email": "hastuti@gmail.com",
             "password": "12345678",
-            "level": "dokter"
+            "level": "Dokter"
         },
         {
-            "id": "42",
-            "sip": "019283641",
-            "nama": "Dr. dr. Umair Shihab, Sp.OG.",
-            "jenis_kelamin": "L",
-            "email": "umair03@gmail.com",
+            "id": 42,
+            "sip": "442/1719.2/SIP/419.114/X/2015",
+            "nama": "dr. Nungky Nugroho Wibisono, Sp.OG",
+            "jenis_kelamin": "Perempuan",
+            "email": "nungki@gmail.com",
             "password": "12345678",
-            "level": "dokter"
+            "level": "Dokter"
         },
         {
-            "id": "43",
-            "sip": "019283640",
-            "nama": "dr. Taufiqudin",
-            "jenis_kelamin": "L",
-            "email": "taufiq03@gmail.com",
+            "id": 43,
+            "sip": "440/1719.2/SIP/429.114/X/2015",
+            "nama": "dr. Wawan Tri Harjanto, SpPD",
+            "jenis_kelamin": "Perempuan",
+            "email": "wawan@gmail.com",
             "password": "12345678",
-            "level": "dokter"
+            "level": "Dokter"
         },
         {
-            "id": "44",
+            "id": 44,
             "sip": "019209518",
-            "nama": "Silvia Laely",
+            "nama": "Kartika Harsaktiningtyas",
             "jenis_kelamin": "P",
-            "email": "lily03@gmail.com",
+            "email": "kartika@gmail.com",
             "password": "12345678",
-            "level": "perawat"
+            "level": "Perawat"
         },
         {
-            "id": "45",
+            "id": 46,
             "sip": "019209518",
-            "nama": "Bima Sakti",
-            "jenis_kelamin": "L",
-            "email": "bima03@gmail.com",
+            "nama": "Devitri Regita Cahyani",
+            "jenis_kelamin": "P",
+            "email": "devitri@gmail.com",
             "password": "12345678",
-            "level": "perawat"
+            "level": "Perawat"
         },
         {
-            "id": "46",
+            "id": 48,
+            "sip": "448/1719.2/SIP/419.104/X/2019",
+            "nama": "dr. Prafita Cahya Dewanti, SpPD",
+            "jenis_kelamin": "Pria",
+            "email": "prafita@gmail.com",
+            "password": "12345678",
+            "level": "Dokter"
+        },
+        {
+            "id": 84,
+            "sip": "446.6./001/SDMKES-SIPP/IV/2020",
+            "nama": "Devi wahyu dwi oktaviani",
+            "jenis_kelamin": "Perempuan",
+            "email": "devi@gmail.com",
+            "password": "12345678",
+            "level": "Perawat"
+        },
+        {
+            "id": 90,
             "sip": "019209518",
-            "nama": "Dewi Rahmawati",
-            "jenis_kelamin": "P",
-            "email": "dewi03@gmail.com",
-            "password": "12345678",
-            "level": "perawat"
-        },
-        {
-            "id": "47",
-            "sip": "019209519",
-            "nama": "Ika Winda Kusumasari",
-            "jenis_kelamin": "P",
-            "email": "ika1905@gmail.com",
-            "password": "12345678",
-            "level": "perawat"
-        },
-        {
-            "id": "48",
-            "sip": "019283639",
-            "nama": "Dr. dr. Thoriq Afanudin, Ph.D.",
+            "nama": "Nyoman Roiatul ningsih",
             "jenis_kelamin": "L",
-            "email": "thoriq1905@gmail.com",
+            "email": "nyoman@gmail.com",
             "password": "12345678",
-            "level": "dokter"
-        },
-        {
-            "id": "50",
-            "sip": "",
-            "nama": "",
-            "jenis_kelamin": "",
-            "email": "bahtiar@gmail.com",
-            "password": "bahtiar123",
-            "level": "perawat"
-        },
-        {
-            "id": "51",
-            "sip": "",
-            "nama": "",
-            "jenis_kelamin": "",
-            "email": "tias@gmail.com",
-            "password": "apayagatau",
-            "level": "perawat"
-        },
-        {
-            "id": "52",
-            "sip": "",
-            "nama": "",
-            "jenis_kelamin": "",
-            "email": "tiasa@gmail.com",
-            "password": "apayagatau",
-            "level": "dokter"
+            "level": "Perawat"
         }
     ]
 }
